@@ -26,3 +26,5 @@ Para realizar os testes da api é preciso ter o **Gradle** e **Java 21** instala
 ````
 gradle test
 ````
+## Documentação SWAGGER
+Para acessar a documentação da api após inicializar o projeto, acesse [GETPET SWAGGER](http://localhost:8080/swagger-ui/index.html).
